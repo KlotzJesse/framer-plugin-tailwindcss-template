@@ -1,8 +1,6 @@
 {
   "id": "cd4847",
   "name": "Framer Plugin Tailwindcss Template",
-  "modes": [
-    "canvas"
-  ],
+  "modes": ["canvas"],
   "icon": "/icon.svg"
 }
